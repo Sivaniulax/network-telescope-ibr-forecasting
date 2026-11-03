@@ -2,7 +2,7 @@
 
 **A comparative study of statistical, machine learning and deep learning models (ARIMA, Random Forest, RNN, LSTM) for predicting daily unsolicited TCP traffic seen by an active network telescope.**
 
-M.Sc. thesis, Five-Year Integrated M.Sc. Data Science, PSG College of Technology (Anna University), November 2023.
+M.Sc. thesis, M.Sc. Data Science, PSG College of Technology (Anna University), November 2023.
 Research carried out at the **CSIR Fourth Paradigm Institute (CSIR-4PI), Bengaluru**, through the CSIR SPARK research programme.
 
 📄 **[Read the full thesis (PDF)](thesis/Sivani_U_MSc_Thesis_Network_Telescope_Forecasting.pdf)**
