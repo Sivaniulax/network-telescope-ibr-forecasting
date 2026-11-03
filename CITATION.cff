@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite it as below."
+title: "Application of DL and ML Techniques towards a Prediction Framework of Active Network Telescope Data"
+type: generic
+authors:
+  - given-names: "Sivani"
+    family-names: "U"
+    email: "sivaniulax09@gmail.com"
+date-released: "2023-11-01"
+keywords:
+  - network telescope
+  - internet background radiation
+  - time series forecasting
+  - LSTM
+  - cybersecurity
+preferred-citation:
+  type: thesis
+  thesis-type: "M.Sc. thesis"
+  title: "Application of DL and ML Techniques towards a Prediction Framework of Active Network Telescope Data"
+  authors:
+    - given-names: "Sivani"
+      family-names: "U"
+  institution:
+    name: "PSG College of Technology, Anna University"
+    city: "Coimbatore"
+    country: "IN"
+  year: 2023
+  month: 11
